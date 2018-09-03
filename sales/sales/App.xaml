@@ -7,6 +7,8 @@
 
         <ResourceDictionary>
             <infra:IntanceLocator x:Key="Locator"/>
+
+            <x:String x:Key="UrlAPI">https://salesitmapi.azurewebsites.net</x:String>
         </ResourceDictionary>
 
     </Application.Resources>
